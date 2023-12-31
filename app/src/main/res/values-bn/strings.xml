@@ -2,4 +2,15 @@
 <resources>
     <string name="app_name">ChangeAppLanguage</string>
     <string name="title">হ্যালো এবং এই সাইটে স্বাগতম</string>
+    <string name="number0" translatable="false">শূন্য</string>
+    <string name="number1" translatable="false">এক</string>
+    <string name="number2" translatable="false">দুই</string>
+    <string name="number3" translatable="false">তিন</string>
+    <string name="number4" translatable="false">চার</string>
+    <string name="number5" translatable="false">পাঁচ</string>
+    <string name="number6" translatable="false">ছয়</string>
+    <string name="number7" translatable="false">সাত</string>
+    <string name="number8" translatable="false">আট</string>
+    <string name="number9" translatable="false">নয়</string>
+    <string name="number10" translatable="false">দশ</string>
 </resources>

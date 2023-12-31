@@ -2,4 +2,15 @@
 <resources>
     <string name="app_name">ChangeAppLanguage</string>
     <string name="title">こんにちは、このサイトへようこそ</string>
+    <string name="number0" translatable="false">ゼロ</string>
+    <string name="number1" translatable="false">1つ</string>
+    <string name="number2" translatable="false">二</string>
+    <string name="number3" translatable="false">三つ</string>
+    <string name="number4" translatable="false">四</string>
+    <string name="number5" translatable="false">五</string>
+    <string name="number6" translatable="false">六</string>
+    <string name="number7" translatable="false">セブン</string>
+    <string name="number8" translatable="false">八</string>
+    <string name="number9" translatable="false">九</string>
+    <string name="number10" translatable="false">十</string>
 </resources>

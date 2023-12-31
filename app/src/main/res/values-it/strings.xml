@@ -2,4 +2,15 @@
 <resources>
     <string name="app_name">ChangeAppLanguage</string>
     <string name="title">ciao e benvenuto in questo sito</string>
+    <string name="number0" translatable="false">Zero</string>
+    <string name="number1" translatable="false">Una</string>
+    <string name="number2" translatable="false">Due</string>
+    <string name="number3" translatable="false">Tre</string>
+    <string name="number4" translatable="false">quattro</string>
+    <string name="number5" translatable="false">Cinque</string>
+    <string name="number6" translatable="false">Sei</string>
+    <string name="number7" translatable="false">Sette</string>
+    <string name="number8" translatable="false">Otto</string>
+    <string name="number9" translatable="false">Nove</string>
+    <string name="number10" translatable="false">Dieci</string>
 </resources>
